@@ -1,5 +1,5 @@
 ﻿# Minecraft Gamemode switcher plugin
-##### Just made a normal & ~~useless~~ minecraft plugin thru which you can switch between gamemodes. My first project made in java!
+##### Just made a normal & ~~useless~~ minecraft plugin thru which you can switch between gamemodes.
 
 # Installation
 ##### To download the `.jar` file, head towards the [releases](https://github.com/TheInsanec0der/minecraft-plugin/releases/) tab.
