@@ -1,0 +1,38 @@
+name: "Plugin"
+version: "1.0"
+main: "vb.$plugin.PluginMain"
+api-version: 1.13
+commands:
+  gmsp:
+    aliases: [gamemode spectator]
+    description: "Set your gamemode to spectator"
+    permission: "operator"
+    permission-message: "Only server operators can use this command!"
+    usage: "/gmsp"
+  gmc:
+    aliases: [gamemode creative]
+    description: "Sets the current gamemode to creative"
+    permission: "operator"
+    permission-message: "Only server operators can use this command!"
+    usage: "/gmc"
+  gms:
+    aliases: [gamemode survival]
+    description: "Set your gamemode to survival"
+    permission: "operator"
+    permission-message: "Only server operators can use this command!"
+    usage: "/gms"
+  gma:
+    aliases: [gamemode adventure]
+    description: "Set your gamemode to adventure"
+    permission: "operator"
+    permission-message: "Only server operators can use this command!"
+    usage: "/gma"
+permissions:
+  operator:
+    default: op
+  operator:
+    default: op
+  operator:
+    default: op
+  operator:
+    default: op

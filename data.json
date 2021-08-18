@@ -1,0 +1,72 @@
+{
+  "plugin.dependencies": "",
+  "plugin.author": "",
+  "plugin.description": "",
+  "plugin.version": "",
+  "open-tab": 0,
+  "plugin-components": [
+    {
+      "children": [{
+        "=": "stat-command-return",
+        "parameters": [{"=": "40a4ac83318c2534feec061e06c7971d"}]
+      }],
+      "=": "comp-command",
+      "parameters": [
+        "gmc",
+        "gamemode creative",
+        "Sets the current gamemode to creative",
+        "operator",
+        "Only server operators can use this command!",
+        "/gmc"
+      ]
+    },
+    {
+      "children": [{
+        "=": "stat-command-return",
+        "parameters": [{"=": "2087fd5c1e095a48507e369c708b1e0a"}]
+      }],
+      "=": "comp-command",
+      "parameters": [
+        "gmsp",
+        "gamemode spectator",
+        "Set your gamemode to spectator",
+        "operator",
+        "Only server operators can use this command!",
+        "/gmsp"
+      ]
+    },
+    {
+      "children": [{
+        "=": "stat-command-return",
+        "parameters": [{"=": "3c5386643d6d70151a7a0ae3bf99560b"}]
+      }],
+      "=": "comp-command",
+      "parameters": [
+        "gms",
+        "gamemode survival",
+        "Set your gamemode to survival",
+        "operator",
+        "Only server operators can use this command!",
+        "/gms"
+      ]
+    },
+    {
+      "children": [{
+        "=": "stat-command-return",
+        "parameters": [{"=": "5c020f7af90a511eae927586ae67b328"}]
+      }],
+      "=": "comp-command",
+      "parameters": [
+        "gma",
+        "gamemode adventure",
+        "Set your gamemode to adventure",
+        "operator",
+        "Only server operators can use this command!",
+        "/gma"
+      ]
+    }
+  ],
+  "plugin.website": "",
+  "plugin.soft-dependencies": "",
+  "plugin.name": ""
+}
