@@ -10,4 +10,9 @@
 ##### `/gmsp` - Change gamemode to spectator
 ##### `/gma` - Change gamemode to adventure
 
+# LICENSE
+##### [**MIT License**](https://github.com/TheInsanec0der/minecraft-plugin/blob/main/LICENSE)
+<br>
+<br>
+<br>
 That's it.
